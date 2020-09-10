@@ -1,0 +1,5 @@
+pip3 install beautifulsoup4
+
+or
+
+pip3 install --ignore-installed beautifulsoup4 
