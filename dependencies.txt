@@ -1,5 +1,7 @@
+pip install requests
+
 pip3 install beautifulsoup4
 
 or
 
-pip3 install --ignore-installed beautifulsoup4 
+pip3 install --ignore-installed beautifulsoup4  (incase if you used other method to install beaautiful soup ,like using tarball and you are getting errors)
