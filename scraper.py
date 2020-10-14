@@ -5,6 +5,8 @@ from time import perf_counter
 
 t1=perf_counter()
 
+#replace with blockchair url   works for btc balance
+
 url="url here"
 
 page=req.get(url)
